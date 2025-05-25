@@ -1,6 +1,12 @@
 # FocusScanner
 This python script scans the chosen folder of most photo formats (including some raw types) and sorts them with the most 'in focus' photos at the top
 
+# Usage
+
+pip install opencv-python rawpy pillow
+
+python ./FocusScanner.py
+
 # Introduction
 
 This is a fairly basic python gui script that uses openCV and rawpy to scan a folder of photos and rank them with a Laplacian function.
