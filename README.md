@@ -3,6 +3,8 @@ This python script scans the chosen folder of most photo formats (including some
 
 # Usage
 
+Python 3.9+ is recommended
+
 pip install opencv-python rawpy pillow
 
 python ./FocusScanner.py
