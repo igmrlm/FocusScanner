@@ -21,5 +21,7 @@ A friend of mine invited me to his live show as a media rep to take photos and v
 # About
 
 If you found this useful as a photographer please consider sending a few $ my way at https://ko-fi.com/nathanaelnewton
+
 I considered trying to make money directly from this but so many friends wanted it I felt it would be better to publish it as open source, especially considering it's so simple and uses openCV to do all the real work. 
+
 Also check out my youtube at https://YouTube.com/NathanaelNewton
